@@ -1,0 +1,11 @@
+Flask
+Flask-SocketIO
+Pillow
+opencv-python-headless
+numpy
+imutils
+gunicorn
+eventlet
+mediapipe==0.10.7
+flask_cors
+python-engineio
